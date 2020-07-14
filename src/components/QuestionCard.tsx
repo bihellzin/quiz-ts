@@ -1,5 +1,7 @@
-import React from 'react';
+import React from 'react'
 
-const QuestionCard = () => <div>Question Card</div>;
+const QuestionCard = () => (
+  <div>Question Card</div>
+)
 
 export default QuestionCard
